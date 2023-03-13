@@ -1,0 +1,27 @@
+{
+  "name": "bniiih---n---t04k4",
+  "version": "0.1.0",
+  "description": "3d dynamic object visualization tool in browser based on multimedia data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perlinleo/BNIIIH---N---T04K4.git"
+  },
+  "keywords": [
+    "3d",
+    "gpu",
+    "browser",
+    "neofuturism",
+    "postmodern",
+    "metamodern"
+  ],
+  "author": "Leonid Perlin 2023 (C)",
+  "license": "CC0-1.0 license",
+  "bugs": {
+    "url": "https://github.com/perlinleo/BNIIIH---N---T04K4/issues"
+  },
+  "homepage": "https://github.com/perlinleo/BNIIIH---N---T04K4#readme"
+}
